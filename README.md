@@ -4,7 +4,8 @@ This project serves as the culmination of the ANDROID App Capstone within the Me
 Professional Certificate program. Its primary function is to provide users with access to Little
 Lemon restaurant's menu and facilitate the placement of orders.
 
-![Uploading 227747468-3e923704-873f-4a06-8bbb-8fad77580034.gif…]()
+![227747468-3e923704-873f-4a06-8bbb-8fad77580034](https://github.com/Rahulbalakrishnan/LittleLemonApp/assets/62502089/bcff9df1-645d-4532-92a5-b2e6135c1cf4)
+
 
 
 Demonstration and Features:
